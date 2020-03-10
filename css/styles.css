@@ -63,8 +63,13 @@ line-height: 1.4;
   border-radius: 10px;
 
 */
-img{
+/*img{
   border-radius: 10px;
+
+}*/
+.smaller-image{
+  width: 100px;
+
 }
 
 .content-row {
