@@ -67,10 +67,24 @@ img{
   border-radius: 10px;
 
 }
-.smaller-image{
-  width: 100px;
+.img{
+  border-radius: 20px;
+  width: 370px;
 
 }
+.image-header{
+  width: 550px;
+  border-radius: 10px;
+
+}
+
+.images{
+  width: 550px;
+  border-radius: 10px;
+  height: 400px;
+
+}
+
 
 .content-row {
   display: flex;
